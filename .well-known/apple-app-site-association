@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "668M657X74.com.leftshifted.memoyo.app",
+        "paths": [ "/nfc/*" ]
+      }
+    ]
+  }
+}
